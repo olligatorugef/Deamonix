@@ -30,6 +30,7 @@ Exécutez la commande suivante dans votre terminal pour installer Daemonix :
 
 ```bash
 bash <(curl -s https://raw.githubusercontent.com/olligatorugef/Deamonix/main/install_script.sh)
+```
 
 Cela mettra à jour votre système, installera les dépendances nécessaires, et configurera Nginx pour héberger Daemonix.
 
@@ -84,6 +85,3 @@ Daemonix est distribué sous la licence MIT License.
 5. **Mise à jour** : Instructions pour maintenir le panel à jour.
 6. **Support et contributions** : Comment les utilisateurs peuvent obtenir de l'aide ou contribuer au projet.
 7. **Licence** : Référence à la licence utilisée.
-
-Cela devrait donner un bon point de départ pour ton `README.md` sur GitHub !
-
