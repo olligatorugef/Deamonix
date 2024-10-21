@@ -37,8 +37,9 @@ Cela mettra à jour votre système, installera les dépendances nécessaires, et
 2. Accéder à l'interface d'installation
 
 Une fois l'installation terminée, vous pourrez accéder à l'interface d'installation via votre navigateur en visitant l'URL suivante :
-
+```
 http://<votre-IP>:1143
+```
 
 Remplacez <votre-IP> par l'adresse IP de votre serveur.
 
@@ -46,9 +47,11 @@ Mise à jour
 
 Pour mettre à jour Daemonix, exécutez la commande suivante :
 
+```
 cd /var/www/html/daemonix
 git pull origin main
 systemctl restart nginx
+```
 
 Cela mettra à jour les fichiers et redémarrera Nginx pour prendre en compte les modifications.
 
