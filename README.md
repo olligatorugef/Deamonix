@@ -29,7 +29,7 @@ Pour installer Daemonix, suivez ces étapes simples :
 Exécutez la commande suivante dans votre terminal pour installer Daemonix :
 
 ```bash
-bash <(curl -s https://raw.githubusercontent.com/olligatorugef/Deamonix/main/install_script.sh)
+bash <(curl -s https://raw.githubusercontent.com/olligatorugef/Deamonix/install/install_script.sh)
 ```
 
 Cela mettra à jour votre système, installera les dépendances nécessaires, et configurera Nginx pour héberger Daemonix.
